@@ -37,7 +37,7 @@ function profile2_entity_info() {
           'label' => t('Full profile'),
         ),
       ),
-      'object keys' => array(
+      'entity keys' => array(
         'id' => 'pid',
         'bundle' => 'name',
       ),
@@ -55,7 +55,7 @@ function profile2_entity_info() {
     'fieldable' => FALSE,
     'bundle of' => 'profile',
     'exportable' => TRUE,
-    'object keys' => array(
+    'entity keys' => array(
       'id' => 'id',
       'name' => 'name',
     ),
@@ -408,15 +408,20 @@ function profile2_attach_form(&$form, &$form_state) {
   }
   // Make sure $form['#fields'] is set at the top level of $form.
   $form += array('#fields' => array());
+  
   foreach ($form_state['profiles'] as $name => $profile) {
-
+    $form['profile_' . $profile->name] = array();
     field_attach_form('profile', $profile, $form['profile_' . $profile->name], $form_state);
 
     // Make sure all fields are present in #fields and fix the form_path
-    $form['#fields'] += $form['profile_' . $profile->name]['#fields'];
-
-    foreach ($form['profile_' . $profile->name]['#fields'] as $fieldname => $info) {
-      array_unshift($form['#fields'][$fieldname]['form_path'], 'profile_' . $profile->name);
+    if (isset($form['profile_' . $profile->name]['#fields'])) {
+      $form['#fields'] += $form['profile_' . $profile->name]['#fields'];
+    
+      foreach ($form['profile_' . $profile->name]['#fields'] as $fieldname => $info) {
+        array_unshift($form['#fields'][$fieldname]['form_path'], 'profile_' . $profile->name);
+      }
+    } else {
+      drupal_set_message(t('No fields defined for this profile.'));
     }
   }
   $form['#validate'][] = 'profile2_form_validate_handler';

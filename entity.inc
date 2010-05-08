@@ -117,7 +117,7 @@ class EntityAPIController extends DrupalDefaultEntityController implements Entit
   public function __construct($entityType) {
     parent::__construct($entityType);
     // Use the name key as primary identifier.
-    $this->nameKey = isset($this->entityInfo['object keys']['name']) ? $this->entityInfo['object keys']['name'] : $this->idKey;
+    $this->nameKey = isset($this->entityInfo['entity keys']['name']) ? $this->entityInfo['entity keys']['name'] : $this->idKey;
     if (isset($this->entityInfo['exportable'])) {
       $this->statusKey = isset($this->entityInfo['export']['status key']) ? $this->entityInfo['export']['status key'] : 'status';
     }
@@ -143,11 +143,11 @@ class EntityAPIController extends DrupalDefaultEntityController implements Entit
     if ($this->ids && $this->nameKey != $this->idKey) {
       $ids = $this->ids;
       $this->ids = array();
-      parent::buildQuery();
+      $this->query = parent::buildQuery($this->ids);
       $this->query->condition("base.{$this->nameKey}", $ids, 'IN');
     }
     else {
-      parent::buildQuery();
+      $this->query = parent::buildQuery($this->ids);
     }
   }
 
@@ -337,8 +337,8 @@ class EntityDB extends FacesExtendable implements EntityAPIInterface {
     }
     $this->entityType = $entityType;
     $this->entityInfo = entity_get_info($entityType);
-    $this->idKey = $this->entityInfo['object keys']['id'];
-    $this->nameKey = isset($this->entityInfo['object keys']['name']) ? $this->entityInfo['object keys']['name'] : $this->idKey;
+    $this->idKey = $this->entityInfo['entity keys']['id'];
+    $this->nameKey = isset($this->entityInfo['entity keys']['name']) ? $this->entityInfo['entity keys']['name'] : $this->idKey;
     // If this is the bundle of another entity, set the bundle key.
     if (isset($this->entityInfo['bundle of'])) {
       $info = entity_get_info($this->entityInfo['bundle of']);
