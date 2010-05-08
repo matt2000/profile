@@ -11,16 +11,19 @@
  */
 function profile2_install() {
   // Auto-create a field for the full name.
-  $field = array(
-    'field_name' => 'profile_fullname',
-    'type' => 'text',
-    'cardinality' => 1,
-    'translatable' => FALSE,
-  );
-  field_create_field($field);
+  // but only if it doesn't already exist.
+  if (!field_info_field('profile_fullname')) {
+    $field = array(
+      'field_name' => 'profile_fullname',
+      'type' => 'text',
+      'cardinality' => 1,
+      'translatable' => FALSE,
+    );
+    field_create_field($field);
+  }
 
   $instance = array(
-    'object_type' => 'profile',
+    'entity_type' => 'profile',
     'field_name' => 'profile_fullname',
     'bundle' => 'main',
     'label' => 'Full name',
