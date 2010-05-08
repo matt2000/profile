@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contribute
+END
+ContributionProduct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contribute/ContributionProduct.xml
+END
+ContributionRecur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contribute/ContributionRecur.xml
+END
+Product.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contribute/Product.xml
+END
+ContributionType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contribute/ContributionType.xml
+END
+PCP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contribute/PCP.xml
+END
+PremiumsProduct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contribute/PremiumsProduct.xml
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/civicrm/!svn/ver/26636/trunk/xml/schema/Contribute/files.xml
+END
+Widget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contribute/Widget.xml
+END
+ContributionSoft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contribute/ContributionSoft.xml
+END
+ContributionPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/civicrm/!svn/ver/25340/trunk/xml/schema/Contribute/ContributionPage.xml
+END
+PCPBlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/civicrm/!svn/ver/25335/trunk/xml/schema/Contribute/PCPBlock.xml
+END
+Premium.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/16510/trunk/xml/schema/Contribute/Premium.xml
+END
+Contribution.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contribute/Contribution.xml
+END

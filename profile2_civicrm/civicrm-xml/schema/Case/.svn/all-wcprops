@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/civicrm/!svn/ver/18669/trunk/xml/schema/Case
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/civicrm/!svn/ver/16030/trunk/xml/schema/Case/files.xml
+END
+CaseContact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/civicrm/!svn/ver/16030/trunk/xml/schema/Case/CaseContact.xml
+END
+CaseActivity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/civicrm/!svn/ver/15610/trunk/xml/schema/Case/CaseActivity.xml
+END
+Case.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/18669/trunk/xml/schema/Case/Case.xml
+END

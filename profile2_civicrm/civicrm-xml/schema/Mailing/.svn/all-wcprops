@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/civicrm/!svn/ver/23624/trunk/xml/schema/Mailing
+END
+Mailing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/civicrm/!svn/ver/23624/trunk/xml/schema/Mailing/Mailing.xml
+END
+Component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/civicrm/!svn/ver/23624/trunk/xml/schema/Mailing/Component.xml
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/15610/trunk/xml/schema/Mailing/files.xml
+END
+BouncePattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/civicrm/!svn/ver/15610/trunk/xml/schema/Mailing/BouncePattern.xml
+END
+Job.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/civicrm/!svn/ver/15610/trunk/xml/schema/Mailing/Job.xml
+END
+TrackableURL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/civicrm/!svn/ver/15610/trunk/xml/schema/Mailing/TrackableURL.xml
+END
+Group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/17988/trunk/xml/schema/Mailing/Group.xml
+END
+Spool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/15610/trunk/xml/schema/Mailing/Spool.xml
+END
+BounceType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/15610/trunk/xml/schema/Mailing/BounceType.xml
+END

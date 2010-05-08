@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contact
+END
+GroupOrganization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/civicrm/!svn/ver/22560/trunk/xml/schema/Contact/GroupOrganization.xml
+END
+GroupNesting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/GroupNesting.xml
+END
+SavedSearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/SavedSearch.xml
+END
+Individual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/17676/trunk/xml/schema/Contact/Individual.xml
+END
+Household.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/Household.xml
+END
+Contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/civicrm/!svn/ver/27390/trunk/xml/schema/Contact/Contact.xml
+END
+GroupContactCache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/GroupContactCache.xml
+END
+Group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/19926/trunk/xml/schema/Contact/Group.xml
+END
+ContactType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/civicrm/!svn/ver/24644/trunk/xml/schema/Contact/ContactType.xml
+END
+ACLContactCache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/civicrm/!svn/ver/24304/trunk/xml/schema/Contact/ACLContactCache.xml
+END
+Relationship.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/civicrm/!svn/ver/17299/trunk/xml/schema/Contact/Relationship.xml
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/25392/trunk/xml/schema/Contact/files.xml
+END
+RelationshipType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/civicrm/!svn/ver/24979/trunk/xml/schema/Contact/RelationshipType.xml
+END
+DashboardContact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/civicrm/!svn/ver/26023/trunk/xml/schema/Contact/DashboardContact.xml
+END
+Organization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/Organization.xml
+END
+SubscriptionHistory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/SubscriptionHistory.xml
+END
+GroupContact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/civicrm/!svn/ver/15610/trunk/xml/schema/Contact/GroupContact.xml
+END

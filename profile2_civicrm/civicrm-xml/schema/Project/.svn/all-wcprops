@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/civicrm/!svn/ver/15610/trunk/xml/schema/Project
+END
+Task.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/civicrm/!svn/ver/15610/trunk/xml/schema/Project/Task.xml
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/15610/trunk/xml/schema/Project/files.xml
+END
+Project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/civicrm/!svn/ver/15610/trunk/xml/schema/Project/Project.xml
+END
+TaskStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/15610/trunk/xml/schema/Project/TaskStatus.xml
+END

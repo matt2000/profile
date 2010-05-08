@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/civicrm/!svn/ver/27390/trunk/xml/templates
+END
+joomla.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/23528/trunk/xml/templates/joomla.tpl
+END
+civicrm_data.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/civicrm/!svn/ver/27390/trunk/xml/templates/civicrm_data.tpl
+END
+civicrm_sample.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/civicrm/!svn/ver/27390/trunk/xml/templates/civicrm_sample.tpl
+END
+civicrm_msg_template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/civicrm/!svn/ver/26307/trunk/xml/templates/civicrm_msg_template.tpl
+END
+schema.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/26307/trunk/xml/templates/schema.tpl
+END
+civicrm_version.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/26212/trunk/xml/templates/civicrm_version.tpl
+END
+civicrm_state_province.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/civicrm/!svn/ver/27390/trunk/xml/templates/civicrm_state_province.tpl
+END
+dao.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/civicrm/!svn/ver/26309/trunk/xml/templates/dao.tpl
+END
+drop.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/civicrm/!svn/ver/26307/trunk/xml/templates/drop.tpl
+END
+languages.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/civicrm/!svn/ver/27390/trunk/xml/templates/languages.tpl
+END
+civicrm_currency.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/civicrm/!svn/ver/26307/trunk/xml/templates/civicrm_currency.tpl
+END
+civicrm_navigation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/civicrm/!svn/ver/27390/trunk/xml/templates/civicrm_navigation.tpl
+END
+civicrm_acl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/civicrm/!svn/ver/26536/trunk/xml/templates/civicrm_acl.tpl
+END
+civicrm_country.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/26307/trunk/xml/templates/civicrm_country.tpl
+END
+schema_structure.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/civicrm/!svn/ver/26310/trunk/xml/templates/schema_structure.tpl
+END

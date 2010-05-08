@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/civicrm/!svn/ver/27390/trunk/xml/schema
+END
+Schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/civicrm/!svn/ver/23779/trunk/xml/schema/Schema.xml
+END
+QuestSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/civicrm/!svn/ver/15610/trunk/xml/schema/QuestSchema.xml
+END
+GccSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/20535/trunk/xml/schema/GccSchema.xml
+END
+KabissaSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/20535/trunk/xml/schema/KabissaSchema.xml
+END

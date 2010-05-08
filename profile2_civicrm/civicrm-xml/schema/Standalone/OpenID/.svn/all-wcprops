@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/15610/trunk/xml/schema/Standalone/OpenID
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/civicrm/!svn/ver/15610/trunk/xml/schema/Standalone/OpenID/files.xml
+END
+Nonces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/civicrm/!svn/ver/15610/trunk/xml/schema/Standalone/OpenID/Nonces.xml
+END
+Associations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/civicrm/!svn/ver/15610/trunk/xml/schema/Standalone/OpenID/Associations.xml
+END

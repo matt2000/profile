@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/civicrm/!svn/ver/24430/trunk/xml/schema/ACL
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/15610/trunk/xml/schema/ACL/files.xml
+END
+Cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/15610/trunk/xml/schema/ACL/Cache.xml
+END
+EntityRole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/civicrm/!svn/ver/15610/trunk/xml/schema/ACL/EntityRole.xml
+END
+ACL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/civicrm/!svn/ver/24430/trunk/xml/schema/ACL/ACL.xml
+END

@@ -1,0 +1,8 @@
+; $Id$
+name = Profile2 CiviCRM
+description = Creates CiviCRM data sets as Drupal Profiles
+version = VERSION
+core = 7.x
+files[] = profile2_civicrm.module
+files[] = profile2_civicrm.install
+dependencies[] = profile2

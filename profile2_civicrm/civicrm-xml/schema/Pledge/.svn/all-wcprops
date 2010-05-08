@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/civicrm/!svn/ver/27390/trunk/xml/schema/Pledge
+END
+Pledge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/civicrm/!svn/ver/27390/trunk/xml/schema/Pledge/Pledge.xml
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/civicrm/!svn/ver/15762/trunk/xml/schema/Pledge/files.xml
+END
+PledgeBlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/civicrm/!svn/ver/15772/trunk/xml/schema/Pledge/PledgeBlock.xml
+END
+Payment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/civicrm/!svn/ver/27390/trunk/xml/schema/Pledge/Payment.xml
+END

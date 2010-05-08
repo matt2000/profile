@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/civicrm/!svn/ver/15610/trunk/xml/schema/Dedupe
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/civicrm/!svn/ver/15610/trunk/xml/schema/Dedupe/files.xml
+END
+RuleGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/civicrm/!svn/ver/15610/trunk/xml/schema/Dedupe/RuleGroup.xml
+END
+Rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/civicrm/!svn/ver/15610/trunk/xml/schema/Dedupe/Rule.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/civicrm/!svn/ver/27390/trunk/xml/schema/Activity
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/civicrm/!svn/ver/17403/trunk/xml/schema/Activity/files.xml
+END
+ActivityTarget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/civicrm/!svn/ver/24968/trunk/xml/schema/Activity/ActivityTarget.xml
+END
+ActivityAssignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/civicrm/!svn/ver/24968/trunk/xml/schema/Activity/ActivityAssignment.xml
+END
+Activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/civicrm/!svn/ver/27390/trunk/xml/schema/Activity/Activity.xml
+END

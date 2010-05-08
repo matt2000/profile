@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/civicrm/!svn/ver/27390/trunk/xml/templates/message_templates
+END
+pcp_supporter_notify_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/civicrm/!svn/ver/25077/trunk/xml/templates/message_templates/pcp_supporter_notify_html.tpl
+END
+uf_notify_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/uf_notify_subject.tpl
+END
+event_offline_receipt_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/26596/trunk/xml/templates/message_templates/event_offline_receipt_html.tpl
+END
+contribution_dupalert_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/24775/trunk/xml/templates/message_templates/contribution_dupalert_text.tpl
+END
+test_preview_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/test_preview_text.tpl
+END
+friend_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/friend_subject.tpl
+END
+participant_cancelled_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/participant_cancelled_subject.tpl
+END
+membership_offline_receipt_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/civicrm/!svn/ver/25446/trunk/xml/templates/message_templates/membership_offline_receipt_subject.tpl
+END
+friend_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/friend_html.tpl
+END
+contribution_recurring_notify_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/civicrm/!svn/ver/24798/trunk/xml/templates/message_templates/contribution_recurring_notify_text.tpl
+END
+membership_online_receipt_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/civicrm/!svn/ver/25211/trunk/xml/templates/message_templates/membership_online_receipt_html.tpl
+END
+contribution_dupalert_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/contribution_dupalert_subject.tpl
+END
+pcp_notify_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/pcp_notify_html.tpl
+END
+pcp_status_change_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/civicrm/!svn/ver/25750/trunk/xml/templates/message_templates/pcp_status_change_text.tpl
+END
+participant_confirm_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/civicrm/!svn/ver/25192/trunk/xml/templates/message_templates/participant_confirm_text.tpl
+END
+contribution_online_receipt_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/civicrm/!svn/ver/25211/trunk/xml/templates/message_templates/contribution_online_receipt_text.tpl
+END
+participant_expired_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/civicrm/!svn/ver/25236/trunk/xml/templates/message_templates/participant_expired_text.tpl
+END
+contribution_dupalert_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/contribution_dupalert_html.tpl
+END
+event_online_receipt_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/civicrm/!svn/ver/27390/trunk/xml/templates/message_templates/event_online_receipt_text.tpl
+END
+test_preview_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/civicrm/!svn/ver/24771/trunk/xml/templates/message_templates/test_preview_html.tpl
+END
+contribution_recurring_notify_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/civicrm/!svn/ver/24737/trunk/xml/templates/message_templates/contribution_recurring_notify_subject.tpl
+END
+uf_notify_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/civicrm/!svn/ver/24773/trunk/xml/templates/message_templates/uf_notify_text.tpl
+END
+pledge_acknowledge_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/civicrm/!svn/ver/24800/trunk/xml/templates/message_templates/pledge_acknowledge_text.tpl
+END
+participant_confirm_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/participant_confirm_subject.tpl
+END
+contribution_offline_receipt_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/civicrm/!svn/ver/25446/trunk/xml/templates/message_templates/contribution_offline_receipt_subject.tpl
+END
+contribution_recurring_notify_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/contribution_recurring_notify_html.tpl
+END
+membership_offline_receipt_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/civicrm/!svn/ver/24987/trunk/xml/templates/message_templates/membership_offline_receipt_text.tpl
+END
+participant_cancelled_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/25236/trunk/xml/templates/message_templates/participant_cancelled_text.tpl
+END
+event_offline_receipt_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/event_offline_receipt_subject.tpl
+END
+pcp_status_change_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/civicrm/!svn/ver/25750/trunk/xml/templates/message_templates/pcp_status_change_html.tpl
+END
+participant_confirm_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/civicrm/!svn/ver/25191/trunk/xml/templates/message_templates/participant_confirm_html.tpl
+END
+contribution_online_receipt_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/civicrm/!svn/ver/25211/trunk/xml/templates/message_templates/contribution_online_receipt_html.tpl
+END
+participant_expired_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/civicrm/!svn/ver/25236/trunk/xml/templates/message_templates/participant_expired_html.tpl
+END
+pledge_acknowledge_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/pledge_acknowledge_subject.tpl
+END
+event_online_receipt_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/civicrm/!svn/ver/27390/trunk/xml/templates/message_templates/event_online_receipt_html.tpl
+END
+uf_notify_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/uf_notify_html.tpl
+END
+pledge_acknowledge_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/pledge_acknowledge_html.tpl
+END
+membership_online_receipt_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/civicrm/!svn/ver/24993/trunk/xml/templates/message_templates/membership_online_receipt_subject.tpl
+END
+pcp_notify_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/pcp_notify_subject.tpl
+END
+pledge_reminder_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/civicrm/!svn/ver/24797/trunk/xml/templates/message_templates/pledge_reminder_text.tpl
+END
+case_activity_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/case_activity_text.tpl
+END
+participant_cancelled_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/25236/trunk/xml/templates/message_templates/participant_cancelled_html.tpl
+END
+membership_offline_receipt_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/civicrm/!svn/ver/25108/trunk/xml/templates/message_templates/membership_offline_receipt_html.tpl
+END
+test_preview_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/test_preview_subject.tpl
+END
+contribution_offline_receipt_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/civicrm/!svn/ver/27390/trunk/xml/templates/message_templates/contribution_offline_receipt_text.tpl
+END
+pcp_supporter_notify_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/civicrm/!svn/ver/24799/trunk/xml/templates/message_templates/pcp_supporter_notify_text.tpl
+END
+event_offline_receipt_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/civicrm/!svn/ver/26596/trunk/xml/templates/message_templates/event_offline_receipt_text.tpl
+END
+pledge_reminder_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/pledge_reminder_subject.tpl
+END
+case_activity_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/civicrm/!svn/ver/26821/trunk/xml/templates/message_templates/case_activity_subject.tpl
+END
+pcp_status_change_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/pcp_status_change_subject.tpl
+END
+pledge_reminder_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/pledge_reminder_html.tpl
+END
+friend_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/civicrm/!svn/ver/24772/trunk/xml/templates/message_templates/friend_text.tpl
+END
+case_activity_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/civicrm/!svn/ver/25030/trunk/xml/templates/message_templates/case_activity_html.tpl
+END
+pcp_supporter_notify_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/pcp_supporter_notify_subject.tpl
+END
+contribution_online_receipt_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/civicrm/!svn/ver/24993/trunk/xml/templates/message_templates/contribution_online_receipt_subject.tpl
+END
+participant_expired_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/civicrm/!svn/ver/24724/trunk/xml/templates/message_templates/participant_expired_subject.tpl
+END
+membership_online_receipt_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/civicrm/!svn/ver/25211/trunk/xml/templates/message_templates/membership_online_receipt_text.tpl
+END
+pcp_notify_text.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/civicrm/!svn/ver/24774/trunk/xml/templates/message_templates/pcp_notify_text.tpl
+END
+event_online_receipt_subject.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/civicrm/!svn/ver/24993/trunk/xml/templates/message_templates/event_online_receipt_subject.tpl
+END
+contribution_offline_receipt_html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/civicrm/!svn/ver/27390/trunk/xml/templates/message_templates/contribution_offline_receipt_html.tpl
+END

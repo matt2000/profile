@@ -1,0 +1,98 @@
+<?php
+// $Id$
+
+/**
+ * @file
+ * Install, update and uninstall functions for the profile module.
+ */
+
+/**
+ * Implement hook_install().
+ */
+function profile2_civicrm_install() {
+
+  $filename = drupal_get_path('module', 'profile2_civicrm') .'/civicrm-xml/schema/Contact/Contact.xml';
+  
+  $fp = (fopen($filename,'r'));
+  $xmlstr = fread($fp, filesize($filename));
+  
+  $xml = new SimpleXMLElement($xmlstr);
+  
+  $weight = 0;
+  foreach ($xml->field AS $xmlfield) {
+    
+    $fieldtype = 'text';
+    switch ((string) $xmlfield->type) {
+      case 'varchar':
+      case 'date':
+      default:
+        $fieldtype = 'text';
+        $instancetype = 'text_textfield';
+        break;
+      
+      case 'boolean':
+        $fieldtype = 'list_boolean';
+        $instancetype = 'options_onoff';
+        break;
+      
+      case 'enum':
+        $fieldtype = 'list';
+        $instancetype = 'options_select';
+        break;
+      
+      case 'int unsigned':
+        $fieldtype = 'number_integer';
+        break;
+    }
+    
+    //field names have 32 character limit & must be lowercase
+    $fieldname = substr('civicrm_'. strtolower($xmlfield->name), 0, 32);
+    $label = isset($xmlfield->title) ? (string) $xmlfield->title : $fieldname;
+  
+    if (!field_info_field($fieldname)) {
+      $field = array(
+        'field_name' => $fieldname,
+        'type' => $fieldtype,
+      );
+      switch ($fieldtype) {
+        case 'list':
+          $field['settings']['allowed_values'] = str_replace(',',"\n", $xmlfield->values);
+          break;
+        
+        case 'list_boolean':
+          $field['settings']['allowed_values'] = "0\n1|$label";
+          break;
+        
+        case 'text':
+          if ((int) $xmlfield->length) $field['settings']['max_length'] = (int) $xmlfield->length;
+          break;
+      }
+      field_create_field($field);
+    }
+  
+    if (!field_info_instance('profile', $fieldname, 'main')) {
+      $instance = array(
+        'entity_type' => 'profile',
+        'field_name' => $fieldname,
+        'bundle' => 'main',
+        'label' => $label,
+        'description' => (string) $xmlfield->comment,
+        'default_value' =>  array((string) $xmlfield->default),
+        'widget' => array(
+          'weight' => $weight++,
+        ),
+      );
+      if (isset($instancetype)) $instance['widget']['type'] = $instancetype;
+      field_create_instance($instance);
+    }
+  }
+}
+
+/**
+ * Implement hook_uninstall().
+ */
+function profile2_civicrm_uninstall() {
+  foreach (field_info_fields() AS $name => $field) {
+    if (strpos($name, 'civicrm_') === 0) field_delete_field($name);
+  }
+}

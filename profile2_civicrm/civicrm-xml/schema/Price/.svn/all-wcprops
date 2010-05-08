@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/civicrm/!svn/ver/26596/trunk/xml/schema/Price
+END
+files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/civicrm/!svn/ver/24702/trunk/xml/schema/Price/files.xml
+END
+Field.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/civicrm/!svn/ver/26596/trunk/xml/schema/Price/Field.xml
+END
+LineItem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/civicrm/!svn/ver/26596/trunk/xml/schema/Price/LineItem.xml
+END
+SetEntity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/civicrm/!svn/ver/23779/trunk/xml/schema/Price/SetEntity.xml
+END
+Set.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/civicrm/!svn/ver/25567/trunk/xml/schema/Price/Set.xml
+END
